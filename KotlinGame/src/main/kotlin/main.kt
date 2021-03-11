@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    val yourName = Player("x", 4, 1, 0)
+    val player = Player("Plyr", 3, 1, 0)
 
-    yourName.show()
+    player.show()
 }
